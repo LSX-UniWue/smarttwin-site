@@ -1,0 +1,26 @@
+partner:
+  - name: Weingut Wirsching
+    location: Iphofen
+    url: "http://www.wirsching.de/"
+    logo: "/images/bdgeo1/kmu_logos/wirsching.jpg"
+
+  - name: Weingut Roth
+    location: Wiesenbronn
+    url: "http://www.weingut-roth.de/"
+    logo: "/images/bdgeo1/kmu_logos/roth.jpg"
+
+  - name: Weingut Artur Steinmann
+    location: Sommerhausen
+    url: "http://www.artur-steinmann.de/"
+    logo: "/images/bdgeo1/kmu_logos/steinmann.jpg"
+
+  - name: Bio-Weingut Schloss Saaleck
+    location: Hammelburg
+    url: "http://www.weingut-schloss-saaleck.de"
+    logo: "/images/bdgeo1/kmu_logos/weingut_lange.jpg"
+  
+  - name: Weingut Thomas Schwab und Martin Schwab GBR
+    location: Thüngersheim
+
+  - name: Weingut Rudolf Fürst
+    location: Bürgstadt am Main

@@ -1,0 +1,79 @@
+{% include header.html %}
+
+<div class="container">    
+    {% if page.images %}
+    <div class="news_images">
+        {% if page.images.size > 1 %}
+        <div class="image_navigation_container">
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <div class="image_wrapper_nav">
+                {% for image in page.images %}
+                <div class="news_image_container fade">
+                    <img src="{{ image | relative_url }}" class="news_image" />
+                    {% if page.captions %}
+                    <em>{{page.captions[forloop.index0]}}</em>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+        {% else %}
+        {% for image in page.images %}
+        <div class="news_image_container fade">
+            <img src="{{ image | relative_url }}" class="news_image" />
+            {% if page.captions %}
+            <em>{{page.captions[forloop.index0]}}</em>
+            {% endif %}
+        </div>
+        {% endfor %}
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {% if page.images.size > 1 %}
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+        {% for image in page.images %}
+            <span class="dot" onclick="currentSlide({{forloop.index}})"></span>
+        {% endfor %}
+    </div>
+    {% endif %}
+    
+    <h3 class="news_date_standalone">{{ page.date | date: "%d.%m.%Y" }}</h3>
+    <div class="news_content">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+    </div>
+</div>
+
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
+    
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("news_image_container");
+      let dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}    
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " active";
+    }
+</script>
+
+{% include footer.html %}

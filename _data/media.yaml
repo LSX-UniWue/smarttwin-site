@@ -1,0 +1,88 @@
+media:
+  # - title: "BigData@Geo: Exakte Prognosen zum Klimawandel in Unterfranken"
+  #   date: 2022-07-19
+  #   image: https://img.br.de/542802d3-6bf9-4f83-953a-ca2b1d58a474.jpeg
+  #   url: https://www.br.de/nachrichten/bayern/bigdata-geo-exakte-prognosen-zum-klimawandel-in-unterfranken
+  #   excerpt: Welche Auswirkungen hat der Klimawandel auf Unterfranken? Wissenschaftlerinnen und Wissenschaftler der Uni Würzburg haben dazu Prognosen für die unterschiedlichen Regionen des Regierungsbezirks erstellt. Ihr Projekt nennt sich "BigData@Geo".
+  #   source: BR
+  # - title: Bodenveränderungen und Bodendynamik
+  #   date: 2022-02-01
+  #   source: Main-Echo
+  - title: "Das kommt auf uns zu, wenn die Temperatur in Unterfranken um 2,2 oder um 3,8 Grad steigt"
+    date: 2021-11-23
+    image: images/presseberichte/2021-11-23.webp
+    url: https://www.mainpost.de/regional/wuerzburg/das-kommt-auf-uns-zu-wenn-die-temperatur-in-unterfranken-um-22-oder-um-38-grad-steigt-art-10690603
+    excerpt: Die Folgen der Erderwärmung werden in Unterfranken verheerend sein. Der Würzburger Klimaforscher Heiko Paeth zeigt zwei Szenarien auf und erklärt, wie sich das Schlimmste noch verhindern ließe.
+    source: Mainpost
+  - title: "Was der Klimawandel mit den Böden in Unterfranken macht"
+    date: 2021-02-17
+    url: https://www.mainpost.de/regional/wuerzburg/was-der-klimawandel-mit-den-boeden-in-unterfranken-macht-art-10404146
+    excerpt: Wie können sich Landwirte auf den Klimawandel einstellen? Das diskutierten Wissenschaftler, Landwirte und Verbraucherschützer auf Einladung der Landvolkbewegung.
+    image: images/presseberichte/2021-02-17.webp
+    source: Mainpost
+  - title: "Sommer ohne Extrem-Hitze: Macht der Klimawandel Pause?"
+    date: 2020-10-19
+    image: images/presseberichte/2020-10-19.webp
+    url: https://www.mainpost.de/regional/wuerzburg/sommer-ohne-extrem-hitze-macht-der-klimawandel-pause-art-10516623
+    excerpt: "Viel Regen im Februar, keine Hitzewelle wie 2018: Im Hinblick auf die Witterung scheint 2020 kein Extremjahr zu sein. Klimaforscher Heiko Paeth warnt vor voreiligen Schlüssen."
+    source: Mainpost
+  - title: "Das Unmögliche wird möglich"
+    date: 2020-02-17
+    image: images/presseberichte/2020-02-17.jpg
+    url: https://www.main-echo.de/regional/stadt-kreis-aschaffenburg/Das-Unmoegliche-wird-moeglich;art3981,6962307
+    excerpt: "Digitalisierung: Bayerische Digitalministerin Judith Gerlach startet Veranstaltungsreihe mit Beispiel aus Weinbau"
+    source: Main-Echo
+  - title: "Würzburger Forscher rechnet mit \"Barcelona-Klima\" im Maintal"
+    date: 2019-06-26
+    image: images/presseberichte/2019-06-26.jpeg
+    url: https://web.archive.org/web/20200511183047if_/https://www.br.de/nachrichten/bayern/wuerzburger-forscher-rechnet-mit-barcelona-klima-im-maintal,RUTVnxN
+    excerpt: "Ein paar Hitzetage machen noch keinen Klimawandel, sagt Heiko Paeth von der Uni Würzburg. Aber die Statistiken des Klimaforschers zeigen: Hitzesommer häufen sich, gerade in Unterfranken. Für das Maintal sagt Paeth ein \"Barcelona-Klima\" voraus."
+    source: BR
+  - title: "Klimaforscher warnt vor Umweltkatastrophen in Unterfranken"
+    date: 2019-05-31
+    image: images/presseberichte/2019-05-31.webp
+    url: https://www.mainpost.de/regional/wuerzburg/klimaforscher-warnt-vor-umweltkatastrophen-in-unterfranken-art-10249517
+    excerpt: "In Unterfranken werden die Folgen des Klimawandels drastischer sein als anderswo in Deutschland, sagt Klimaforscher Geograf Heiko Paeth. Er erklärt, was auf die Region zukommen kann."
+    source: Mainpost
+  - title: "Klimakrise: Was kommt auf Unterfranken zu?"
+    date: 2019-05-31
+    image: images/presseberichte/2019-05-31_2.webp
+    url: https://www.mainpost.de/regional/wuerzburg/klimakrise-was-kommt-auf-unterfranken-zu-art-10248253
+    excerpt: "In Unterfranken könnte sich an manchen Orten bis zum Ende des Jahrhunderts die Zahl der Hitzetage verfünffacht haben. Die Region ist \"Hotspot\". Was hat das für Folgen?"
+    source: Mainpost
+  - title: "Enormes Potenzial: Geodaten sind gefragt"
+    date: 2018-11-21
+    image: images/presseberichte/2018-11-21.webp
+    url: https://www.mainpost.de/ueberregional/wirtschaft/mainpostwirtschaft/enormes-potenzial-geodaten-sind-gefragt-art-10113570
+    excerpt: "43 Milliarden Euro - so groß ist pro Jahr der volkswirtschaftliche Mehrwert von offen zugänglichen Daten. Wie es in einer Studie der Konrad-Adenauer-Stiftung von 2016 weiter heißt, sind jährlich 20.000 neue Arbeitsplätze in dieser Hinsicht drin. So oder so: Geodaten sind für viele Unternehmen ein wertvoller Rohstoff - auch in Mainfranken."
+    source: Mainpost
+  - title: "Digitaler Rohstoff für ein breites Branchenspektrum: Geodaten im Fokus des Innovationsforums Mainfranken"
+    date: 2018-11-24
+    image: images/presseberichte/2018-11-24.jpg
+    url: https://in-und-um-schweinfurt.de/business/digitaler-rohstoff-fuer-ein-breites-branchenspektrum-geodaten-im-fokus-des-innovationsforums-mainfranken/
+    excerpt: "Die Frage nach dem »Wo?« – sie stellt sich in vielen Kontexten, ist doch nahezu jedes Objekt irgendwo verortet. Geoinformationen bilden daher eine wichtige Basis für unternehmerische Entscheidungen und bergen ein immenses wirtschaftliches Potenzial."
+    source: in-und-um-schweinfurt.de
+  - title: "Neue Klimamodelle für Unterfranken"
+    date: 2018-06-11
+    image: images/presseberichte/2018-06-11.jpg
+    url: https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/neue-klimamodelle-fuer-unterfranken-1/
+    excerpt: "BigData@Geo: Dieses Projekt soll Klima- und Umweltdaten in verständlicher Weise für die unterfränkische Land- und Forstwirtschaft aufbereiten. Die Europäische Union fördert es im EFRE-Programm mit 1,9 Millionen Euro."
+    source: "Uni Würzburg"
+  - title: "Wie Unwetter so manchem Bauern die Ernte verhagelt"
+    date: 2018-06-14
+    image: images/presseberichte/2018-06-14.webp
+    url: https://www.mainpost.de/ueberregional/bayern/wie-unwetter-so-manchem-bauern-die-ernte-verhagelt-art-9984813
+    excerpt: "Michael Stolzenberger hat es gehörig die gute Laune verhagelt. Und nicht nur die, sondern auch seine ganze Erdbeerernte."
+    source: Mainpost
+  - title: "Sieben Millionen Euro für vier Forschungsprojekte — Universität Würzburg"
+    date: 2018-01-26
+    image: images/presseberichte/2018-01-26.jpg
+    url: https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/sieben-millionen-euro-fuer-vier-forschungsprojekte/
+    excerpt: 'Die Julius-Maximilians-Universität (JMU) erhält insgesamt mehr als sieben Millionen Euro von der Europäischen Union, um vier Forschungsprojekte umzusetzen. Die Förderzusagen übergab Staatssekretär Bernd Sibler, der die JMU als "Innovationsmotor in der Region" hervorhob.'
+    source: "Uni Würzburg"
+  - title: "EU-Millionen für die Würzburger Universität"
+    date: 2018-01-26
+    image: images/presseberichte/2018-01-26.webp
+    url: https://www.mainpost.de/regional/wuerzburg/eu-millionen-fuer-die-wuerzburger-universitaet-art-9872756
+    excerpt: 'Es sind Forschungsprojekte, die verbinden: Wissenschaft und regionale Wirtschaft, Grundlagen- und anwendungsorientierte Forschung, außerdem verschiedene Wissenschaftsdisziplinen.'
+    source: Mainpost

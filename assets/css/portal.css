@@ -1,0 +1,41 @@
+.edit-mode-off .widget-edit-markdown-button,
+.edit-mode-off .widget-config-button,
+.edit-mode-off .widget-delete-button,
+.edit-mode-off .dashboard-head,
+.edit-mode-off .dashboard-head ~ hr,
+.edit-mode-off .deactivate {
+    display: none;
+}
+
+#dashboard-state-update-container {
+    text-align: center;
+    margin-bottom: 25px;
+    display: none;
+}
+
+#dashboard-state-update-container img {
+    width: 3em;
+    height: 3em;
+    margin-right: .5em;
+}
+
+#new-version-reset-dashboard {
+    cursor: pointer;
+}
+
+.dashboard-control-link-container {
+    margin-top: 3em;
+}
+
+.dashboard-control-link {
+    position: absolute;
+    cursor: pointer;
+}
+
+#reset-dashboard {
+    right: 5px;
+}
+
+#edit-dashboard {
+    left: 5px;
+}

@@ -1,0 +1,28 @@
+nav:
+  - title: Start
+    url: /index.html
+  - title: Neuigkeiten
+    url: /neuigkeiten.html
+  #   subpages:
+  #     - title: Presseberichte
+  #       url: /presse.html
+  #     - title: Öffentliche Auftritte
+  #       url: /auftritte.html
+  #     - title: Download
+  #       url: /download.html
+  - title: Ziele
+    url: /ziele.html
+  - title: Team
+    url: /team.html
+  - title: Partner
+    url: /partner.html
+  - title: Publikationen
+    url: /publikationen.html
+  # - title: Klimabericht
+  #   url: /klimabericht.html
+  # - title: Klimaatlas
+  #   url: /klimaatlas
+  # - title: Vorgängerprojekt
+  #   url: /vorgaengerprojekt.html
+  # - title: Kontakt
+  #   url: /kontakt.html 

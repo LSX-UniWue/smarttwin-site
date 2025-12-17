@@ -1,0 +1,110 @@
+events:
+  - title: "2. Workshop im Teilprojekt Franken des Interreg-Projekts RESPOnD zu Ökosystemdienstleistungen und Klimawandel in alpinem Weinbau (A. Hofmann und L. Keupp)"
+    date_start:  2025-10-31
+  - title: "Auftaktveranstaltung zum „Jahr des Wassers 2025“ im Grabfeld zum Thema „Wasser im Wandel: Schwammlandschaften für ein klimaresilientes Grabfeld“ in Bad Königshofen (L. Keupp)"
+    date_start:  2025-10-14
+  - title: "43. Jahrestagung des AK Klima der Deutschen Gesellschaft für Geographie (A. Hofmann und L. Keupp)"
+    date_start:  2025-09-25
+  - title: "1. Workshop im Teilprojekt Franken des Interreg-Projekts RESPOnD zu Ökosystemdienstleistungen und Klimawandel in alpinem Weinbau (A. Hofmann und L. Keupp)"
+    date_start: 2025-06-20
+  - title: "Veranstaltung „Wassermanagement im Klimawandel gemeinsam gestalten“ des Teilprojekts „Main river basin“ des Projekts ARSINOE (L. Keupp)"
+    date_start:  2025-04-04
+  - title: "Fachtagung „Böden im Klimawandel – Bodenfruchtbarkeit erhalten und Resilienz stärken“ des Bildungswerks des Bayerischen Bauernverbandes (L. Keupp)"
+    date_start: 2024-12-06
+  - title: 'Fachgespräch der Akademie für Politik und Zeitgeschehen der Hanns-Seidel-Stiftung „In der Wasserfalle? Mit dem blauen Gold wirtschaften - innovative Wege in Bayern" (L. Keupp und K. Ziegler)'
+    date_start: 2024-09-05
+  - title: "Vortrag zu Klimawandel in Stadt und Landkreis Würzburg im Rahmen des „klima.fit“-Kurses and Volkshochschule Würzburg und Umgebung (L. Keupp)"
+    date_start:  2024-05-14
+  - title: "Aktionstag im Rahmen der Klimawoche Höchberg, 22.-28.04.2024 „Glänzenden Aussichten? – Wie klimafit ist Höchberg?“ (S. Schönbrodt-Stitt)"
+    date_start: 2024-04-28
+  - title: "Vortragabend „Klimawandel vor unserer Haustür“ im Rahmen der Klimawoche Höchberg, 22.-28.04.2024 „Glänzenden Aussichten? – Wie klimafit ist Höchberg?“ (F. Pollinger)"
+    date_start: 2024-04-22
+  - title: "Mitgliederversammlung des Kreisverbandes für Gartenbau und Landespflege Würzburg: Klimawandel in Stadt und Landkreis Würzburg (L. Keupp)"
+    date_start: 2024-03-08 
+  - title: "Landratsamt und VHS Kitzingen: Projekt BigData@Geo – Auswirkungen des Klimawandels auf die unterfränkische Land- und Forstwirtschaft (H. Paeth)"
+    date_start: 2022-02-08
+  - title: "Ringvorlesung zur Nachhaltigkeit (Würzburg, online): Unterfrankens Klima im 21. Jahrhundert — Düstere Aussichten oder alles halb so wild? (D. Schönbein)"
+    date_start: 2021-12-02
+  - title: "Deutsche Gesellschaft für Kartographie e.V.: Aus Bytes werden Böden (B. Terhorst, S. Meyer-Heintze)"
+    date_start: 2021-12-01 
+  - title: "Städtische Stabstelle Klima und Nachhaltigkeit (Würzburg, online): Unterfrankens Klima im 21. Jahrhundert — Düstere Aussichten oder alles halb so wild? (D. Schönbein)"
+    date_start: 2021-11-18
+  - title: "Alumni Network Ukraine-Germany Online Conference: Environments under the pressure of climate and human impact (B. Terhorst)"
+    date_start: 2021-11-04
+  - title: "Schulleitersymposium (Bamberg): Der menschgemachte Klimawandel, seine Auswirkungen in Unterfranken und wie Schulen damit umgehen können (H. Paeth)"
+    date_start: 2021-11-03
+  - title: "Interessengemeinschaft Umwelt Rimpar: Klimawandel in Unterfranken (H. Paeth)"
+    date_start: 2021-10-22
+  - title: "Steigerwaldzentrum Handthal: Der menschgemachte Klimawandel und seine Ausprägungen in unserer Region (H. Paeth)"
+    date_start: 2021-10-20
+  - title: "Bürgerbegehren Ochsenfurt: Treiber und Auswirkungen des Klimawandels in Deutschland und unserer Region (H. Paeth)"
+    date_start: 2021-09-28
+  - title: "Mainfrankenmesse (Würzburg): Projektposter am Universitätsstand"
+    date_start: 2021-09-25
+    date_end: 2021-10-03
+  - title: "Bündnis 90/Die Grünen Würzburg (Würzburg): Boden- und Landschaft im Klimawandel (B. Terhorst)"
+    date_start: 2021-07-01
+  - title: "Kreisverband Main-Spessart Bündnis90/Die Grünen: Der menschgemachte Klimawandel und seine Auswirkungen in Unterfranken (H. Paeth)"
+    date_start: 2021-06-30
+  - title: "Modern Software Development (online): Über Fortran, das Klima und Supercomputer (F. Pollinger)"
+    date_start: 2021-02-03
+  - title: "Universität Geisenheim, Graduiertenschule: Klimawandel und Weinbau in Deutschland (H. Paeth)"
+    date_start: 2020-11-25
+  - title: "Webinar der Grünen im Bayerischen Landtag: Hitze bedroht — Wie gehen wir mit der Klimaüberhitzung um? (H. Paeth)"
+    date_start: 2020-06-26
+  - title: "Bündins 90/ Die Grünen OV Randersacker (Lindelbach): Unterfrankens Klima im 21. Jahrhundert — Düstere Aussichten oder alles halb so wild? (D. Schönbein)"
+    date_start: 2020-03-11
+  - title: "Don-Bosco-Berufsschulle (Würzburg): Globaler Klimawandel und Implikationen für Unterfranken (H. Paeth)"
+    date_start: 2020-03-10
+  - title: "Bündins 90/ Die Grünen OV Bergtheim/Opferbaum/Dipbach (Bergtheim): Unterfrankens Klima im 21. Jahrhundert — Düstere Aussichten oder alles halb so wild? (D. Schönbein)"
+    date_start: 2020-03-08
+  - title: "Bündnis 90/ Die Grünen OV Erlabrunn (Erlabrunn): Unterfrankens Klima im 21. Jahrhundert — Düstere Aussichten oder alles halb so wild? (D. Schönbein)"
+    date_start: 2020-03-05
+  - title: "Zukunftsforum im Burkardushaus (Würzburg): Globaler Klimawandel und Implikationen für Unterfranken und Würzburg (H. Paeth)"
+    date_start: 2020-03-02
+  - title: "Fachtagung trend-agrar (Giebelstadt): Der Klimawandel und seine Auswirkungen in Unterfranken (H. Paeth)"
+    date_start: 2020-02-17
+  - title: "Digitalisierung konkret: Vom Klimamodell zum guten Tropfen — Themenabend von und mit Staatsministerin für Digitales Judith Gerlach (Alzenau): Prof. Dr. Andreas Hotho und Prof. Dr. Heiko Paeth sowie KMU-Partner Paul Fürst und Artur Steinmann als Experten"
+    date_start: 2020-02-15
+    image: images/2020-02-17-digitalisierung-konkret/image.jpg
+  - title: "Landkreis Würzburg, Bau- und Umweltausschuss: Globaler Klimawandel und seine Auswirkungen für Unterfranken (H. Paeth)"
+    date_start: 2020-02-13
+  - title: "Anhörung im Bayerischen Landtag (München): Ergebnisse des Projekts BigData@Geo (H. Paeth)"
+    date_start: 2020-02-11
+  - title: "Symposium 'Klimaanpassung in der Landwirtschaft' (Mariabildhausen): Globaler Klimawandel und Auswirkungen in unserer Region (H. Paeth)"
+    date_start: 2020-02-07
+  - title: "Kath. Landvolkbewegung (KLB) Diözese Würzburg Vortrag und Diskussionsforum: Land — Klima Wohin in Unterfranken? Gesprächsabend für Verbraucher und Erzeuger (Fährbrück): Boden- und Landschaftsdynamik im Klimawandel (B. Terhorst)"
+    date_start: 2020-02-02
+  - title: "Internationale Grüne Woche (Berlin): Projektvorstellung durch KMU-Betrieb Schloss Gut Obbach ab 22.1. u.a. Podiumsvortrag und -diskussion am Stand des Bundeslandwirtschaftsministeriums"
+    date_start: 2020-01-17
+    date_end: 2020-01-26
+  - title: "Ringvorlesung zur Nachhaltigkeit (Würzburg): Unterfrankens Klima im 21. Jahrhundert — Düstere Aussichten oder alles halb so wild? (D. Schönbein)"
+    date_start: 2019-12-19
+  - title: "Amt für Ländliche Entwicklung (Würzburg): Globaler Klimawandel und Implikationen für Unterfranken (H. Paeth)"
+    date_start: 2019-12-16
+  - title: "Künstliche Intelligenz: Schöne neue Welt oder Horrorvision? — Podiumsdiskussion (Würzburg): Prof. Dr. Andreas Hotho als KI-Experte in der Diskussionsrunde"
+    date_start: 2019-10-10
+    image: images/2019-10-11-podiumsdiskussion/01.jpeg
+  - title: "Fairtrade-Steuerungsgruppe Retzstadt (Retzstadt): Der Klimawandel in Unterfranken (F. Pollinger)"
+    date_start: 2019-09-15
+  - title: "11. Unterfränkischer Gemeinde- und Körperschaftswaldtag (Handthal): Unser Klima im Jahr 2100 — Prognosen für Unterfranken (F. Pollinger)"
+    date_start: 2019-07-08
+  - title: "Würzburg, The Future Code 2019: Messestand zum Projekt"
+    date_start: 2019-06-06
+    date_end: 2019-06-07
+    image: images/2019-06-11-thefuturecode/daniel_abel_stand.jpg
+  - title: "Umweltbildungszentrum Oberschleichach: B. Terhorst: Fränkische Böden zwischen Klimawandel und Nutzung (B. Terhorst)"
+    date_start: 2019-04-12
+  - title: "Universitätsbund Würzburg (Eibelstadt): Boden, Landschaft und Klimawandel (B. Terhorst)"
+    date_start: 2019-04-10
+  - title: "VHS (Kitzingen): Fränkische Böden im Klimawandel (B. Terhorst)"
+    date_start: 2019-02-20
+  - title: "Innovationsforum Mainfranken (Würzburg): Vorstellung des Projekts durch Prof. Dr. Andreas Hotho und Prof. Dr. Heiko Paeth "
+    date_start: 2018-11-20
+    image: images/2018-11-20_innovationsforum_ihk/Innovationsforum0002_title.jpg
+  - title: "Arnsteiner Bürger-Energie e.G. (Arnstein): Der Klimawandel in Unterfranken (F. Pollinger)"
+    date_start: 2018-11-29
+  - title: "VHS Lohr-Gemünden & Landratsamt Main-Spessart (Gemünden): Der Klimawandel in Unterfranken (F. Pollinger)"
+    date_start: 2018-09-20
+  - title: "Geographische Gesellschaft (Würzburg): Fränkische Böden im Klimawandel (B. Terhorst)"
+    date_start: 2018-07-09

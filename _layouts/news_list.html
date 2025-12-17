@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<div id="news" class="container news">
+    {% for post in site.posts %}
+        <div class="news_item">
+            <h2 class="news_title">
+                <span class="news_date">{{ post.date | date: "%d.%m.%Y" }}</span>
+                <a href="{{ post.url | relative_url }}">
+                    {{ post.title }}
+                </a>
+            </h2>
+        </div>
+    {% endfor %}
+</div>
+
+{% include footer.html %}

@@ -1,0 +1,122 @@
+- name: Stadtplanung & Architektur
+  partner:
+    - name: Schirmer Architekten + Stadtplaner GmbH
+      location: Würzburg
+      address: Huttenstraße 4, 97072 Würzburg
+      url: "https://www.schirmer-stadtplanung.de/"
+      
+    - name: Haines-Leger Architekten + Stadtplaner BDA
+      location: Würzburg
+      address: Grabenberg 1/Oeggstr. 2, 97070 Würzburg
+      url: "https://www.haines-leger.de/"
+      logo: "/images/logos_kmu/haines_leger.png"
+      
+    - name: Grellmann Kriebel Teichmann & Partner Architekten BDA
+      location: Würzburg
+      address: Kaiserstraße 33, 97070 Würzburg
+      url: "https://www.gkt-architekten.de/"
+      
+    - name: Schlicht Lamprecht Kern Architekten PartGmbB
+      location: Schweinfurt
+      address: Maibacher Straße 51, 97424 Schweinfurt
+      url: "https://www.schlichtlamprechtkern.de/"
+      logo: "/images/logos_kmu/schlicht_lamprecht_kern.svg"
+      
+    - name: architektur + ingenieurbüro perleth
+      location: Schweinfurt
+      address: Kornmarkt 17, 97421 Schweinfurt
+      url: "https://www.architekt-perleth.de/"
+      logo: "/images/logos_kmu/perleth.png"
+      
+    - name: Wegner Stadtplanung
+      location: Veitshöchheim
+      address: Tiergartenstraße 4c, 97209 Veitshöchheim
+      url: "https://www.wegner-stadtplanung.de/"
+      logo: "/images/logos_kmu/wegner_stadtplanung.gif"
+
+- name: Landschaftsarchitektur & Umweltplanung
+  partner:
+    - name: arc.grün landschaftsarchitekten. stadtplaner GmbH
+      location: Kitzingen
+      address: Steigweg 24, 97318 Kitzingen
+      url: "https://www.arc-gruen.de/"
+      logo: "/images/logos_kmu/arc_gruen.svg"
+      
+    - name: DE BUHR LA Landschaftsarchitektur
+      location: Sommerhausen
+      address: Katharinengasse 10, 97286 Sommerhausen
+      url: "https://www.debuhrla.de/"
+      logo: "/images/logos_kmu/de_buhr_la.png"
+      
+    - name: A&K UmweltConsult GmbH
+      location: Volkach
+      address: Birkenstraße 23, 97332 Volkach
+      url: "https://ak-umweltconsult.de/"
+      logo: "/images/logos_kmu/ak_umweltconsult.png"
+      
+    - name: Klärle Gesellschaft für Landmanagement und Umwelt mbH
+      location: Weikersheim-Schäftersheim
+      address: Bachgasse 8, 97990 Weikersheim-Schäftersheim
+      url: "https://www.klaerle.de/"
+      logo: "/images/logos_kmu/klaerle.png"
+
+- name: Ingenieurwesen & Verkehrsplanung
+  partner:
+    - name: Burghardt & Partner Ingenieure
+      location: Kassel
+      address: Am Sonnenhang 4, 34128 Kassel
+      url: "https://www.bpi-kassel.de/"
+      logo: "/images/logos_kmu/burghardt.png"
+      
+    - name: Ingenieurbüro Rau
+      location: Heilbronn
+      address: Bottwarbahnstraße 4, 74081 Heilbronn
+      url: "https://www.ing-rau.de/"
+      logo: "/images/logos_kmu/rau.png"
+      
+    - name: WVI Prof. Dr. Wermuth Verkehrsforschung und Infrastrukturplanung GmbH
+      location: Braunschweig
+      address: Nordstraße 11, 38106 Braunschweig
+      url: "https://www.wvigmbh.de/"
+      logo: "/images/logos_kmu/wvi.svg"
+      
+    - name: INKEK GmbH
+      location: Lohfelden
+      address: Schillerstraße 50, 34253 Lohfelden
+      url: "https://www.inkek.de/"
+      logo: "/images/logos_kmu/inkek.png"
+      
+    - name: WTJ plan3 GmbH
+      location: Creglingen
+      address: Bad Mergentheimer Straße 16, 97993 Creglingen
+      url: "https://www.wtj-plan3.de/"
+      logo: "/images/logos_kmu/wtj.png"
+
+- name: Geoinformation & Fernerkundung
+  partner:
+    - name: Geoplex GIS GmbH
+      location: Osnabrück
+      address: Bohmter Straße 12, 49074 Osnabrück
+      url: "https://www.geoplex.de"
+      logo: "/images/logos_kmu/geoplex.svg"
+      
+    - name: LUP – Luftbild Umwelt Planung GmbH
+      location: Potsdam
+      address: Große Weinmeisterstraße 3a, 14469 Potsdam
+      url: "https://www.lup-umwelt.de"
+      logo: "/images/logos_kmu/lup.svg"
+      
+    - name: Monitor4 GmbH
+      location: Berlin
+      address: Lüdickeweg 7, 14089 Berlin
+      url: "https://www.monitorberlin.de"
+      logo: "/images/logos_kmu/monitor4.png"
+
+
+- name: Nachhaltigkeitsberatung
+  partner:
+    - name: Vesta sustainability consulting UG
+      location: München
+      address: c/o ImpactHub, Gotzinger Str. 8, 81371 München
+      url: "https://www.vesta-consult.de"
+      logo: "/images/logos_kmu/vesta.png"

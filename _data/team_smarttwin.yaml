@@ -1,0 +1,45 @@
+- name: "Projektleitung"
+  mitarbeiter:
+    - name: Prof. Dr. Andreas Hotho
+      url: https://www.informatik.uni-wuerzburg.de/datascience/staff/hotho/
+      image: images/mitarbeitende/hotho.jpg
+      bereich: Informatik
+    - name: Univ.-Prof. Dr. Heiko Paeth
+      url: https://www.geographie.uni-wuerzburg.de/klimatologie/team/paeth-univ-prof-dr-heiko/
+      image: images/mitarbeitende/paeth.jpg
+      bereich: Geographie
+    - name: Prof. Dr. Tobias Ullmann
+      url: https://www.geographie.uni-wuerzburg.de/en/earthobservation/staff/prof-dr-tobias-ullmann/
+      image: images/mitarbeitende/ullmann.jpg
+      bereich: Geographie
+
+- name: "Geographie"
+  mitarbeiter:
+    - name: Katharina Pröstler
+      url: https://www.geographie.uni-wuerzburg.de/klimatologie/team/proestler-katharina/
+      image: images/mitarbeitende/proestler.jpg
+    - name: Friederike Schäfer
+      url: https://www.geographie.uni-wuerzburg.de/klimatologie/team/schaefer-friederike-msc/
+      image: images/mitarbeitende/schaefer.jpg
+    - name: Etienne Roy
+    - name: Sabine Oppmann
+      url: https://www.geographie.uni-wuerzburg.de/klimatologie/team/oppmann-sabine-1/
+      image: images/mitarbeitende/oppmann.jpg
+    - name: Antonio José Castañeda Gómez
+      url: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/antonio-jose-castaneda-gomez-msc/
+      image: images/mitarbeitende/castaneda_gomez.jpg
+
+- name: "Informatik"
+  mitarbeiter:
+    - name: Andrzej Dulny
+      url: https://www.informatik.uni-wuerzburg.de/datascience/staff/dulny/
+      image: images/mitarbeitende/dulny.jpeg
+    - name: Dr. Anna Krause
+      url: http://www.informatik.uni-wuerzburg.de/datascience/staff/krause/
+      image: images/mitarbeitende/krause.png
+    - name: Lena Hettinger
+      url: https://www.informatik.uni-wuerzburg.de/datascience/staff/hettinger/
+      image: images/mitarbeitende/hettinger.jpg
+
+- name: "Stadt Würzburg"
+

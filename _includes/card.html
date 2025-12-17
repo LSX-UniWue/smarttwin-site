@@ -1,0 +1,30 @@
+<div class="info_card">
+    {% if info.image %}
+    <a href="{{ info.url }}">
+        <img class="info_image" src="{{ info.image }}" loading="lazy" />
+    </a>
+    {% endif %}
+    <div class="info_text">
+        <h3 class="info_title">
+            {% if info.url %}
+            <a href="{{ info.url }}">
+            {% endif %}
+                {{ info.title }}
+            {% if info.url %}
+            </a>
+            {% endif %}
+        </h3>
+        <div class="info_description">
+            <span class="info_date">
+                {{ info.date | date: "%d.%m.%Y" }}
+                {% if info.source %}
+                    (Quelle: {{ info.source }})
+                {% endif %}
+            </span>
+            <p>{{ info.excerpt }}</p>
+        </div>
+        {% if info.url %}
+        <div class="read_more"><a href="{{ info.url }}">weiterlesen</a></div>
+        {% endif %}
+    </div>
+</div>

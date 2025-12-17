@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <title>{{ site.site_title }} — {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/genericons/genericons.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.stylesheets %}
+        {% for stylesheet in page.stylesheets %}
+        <link rel="stylesheet" href="{{ stylesheet }}">
+        {% endfor %}
+    {% endif %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css?v={{ site.css_version }}">
+
+    {% if page.scripts %}
+        {% for script in page.scripts %}
+        <script src='{{ script }}'></script>
+        {% endfor %}
+    {% endif %}
+</head>
+
+<body>
+    
+    <!-- HEADER BANNER -->
+    <div>
+        <div class="container">
+            <img src="{{ site.baseurl }}/assets/img/logo_v1.png" alt="">
+        </div>
+    </div>
+
+    <!-- NAVIGATION -->
+    <ul class="navigation">
+        {% for s in site.data.navigation.nav %}
+
+            {% if s.subpages %}
+                <!-- {% if page.url contains s.url %}
+                    <li class="active nav-item-dropdown">
+                {% else %}
+                    <li class="nav-item-dropdown">
+                {% endif %} -->
+                <li class="nav-item-drop">
+                    <a class="nav-item-link-drop" href="{{ s.url }}">{{ s.title }}</a>
+                    <div class="dropdown-content">
+                    {% for sub in s.subpages %}
+                        <a class= "nav-item-link" href="{{ sub.url }}">{{ sub.title }}</a>
+                    {% endfor %}
+                    </div>
+            {% else %}
+                <!-- {% if page.url contains s.url %}
+                    <li class="active nav-item">
+                {% else %}
+                    <li class="nav-item">
+                {% endif %} -->
+                <li class="nav-item">
+                <a class="nav-item-link" href="{{ s.url }}">{{ s.title }}</a>
+            {% endif %}
+                    </li>
+        {% endfor %}
+    </ul>
