@@ -10,5 +10,3 @@ An dem Treffen nahmen Vertreter:innen der **Professur für Klimatologie**, des *
 Die Arbeitsgruppen berichteten über erste wichtige Fortschritte: Die Klimatologie hatte bereits erste Treffen mit der Stadt Würzburg und dem Softwareentwickler GeoPlex durchgeführt und mit der Analyse zur Integration des Stadtklimamodells PALM-4U in den digitalen Zwilling der Stadt Würzburg begonnen. Die Fernerkundung stellte Pläne zur hochauflösenden Datengewinnung vor, während die Informatik sich mit KI-basierten Optimierungsansätzen befasst.
 
 Neben den fachlichen Updates wurden auch administrative Themen besprochen, darunter die Projektwebsite, Kommunikationsmaterialien und die Kooperationsverträge mit den beteiligten KMU-Partnern. Ein wichtiger Meilenstein wurde bereits gesetzt: Das erste große Treffen mit allen KMU-Partnern ist für Mai 2026 geplant.
-
-Die positive und konstruktive Atmosphäre des ersten Team-Meetings zeigt, dass das SMART-TWIN Projekt auf einem guten Weg ist, um bayerischen Städten ein innovatives Werkzeug für die klimaangepasste Stadtentwicklung zur Verfügung zu stellen.

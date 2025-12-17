@@ -19,17 +19,19 @@ Städtische Siedlungsräume besitzen eine besonders hohe Vulnerabilität gegenü
 
 Bisher beauftragen kommunale Dienststellen für stadtklimatische Bewertungen geplanter Maßnahmen häufig Planungsbüros, die als KMU in der Region tätig sind. Als Grundlage dienen meist statische, oft veraltete Klimafunktionskarten und einfache GIS-basierte Modellierungen. Die externe Vergabe solcher Gutachten an wenige, nicht in Bayern ansässige Unternehmen verzögert Entscheidungsprozesse um viele Monate und verursacht hohe Kosten für bayerische KMU, Kommunalunternehmen und Kommunen.
 
-Das Projekt **SMART-TWIN** wird durch den Europäischen Fonds für regionale Entwicklung (EFRE) im Rahmen der Maßnahmenart 3.2 "Förderung des Technologietransfers von Hochschulen in Unternehmen" gefördert. Die Julius-Maximilians-Universität Würzburg entwickelt gemeinsam mit der Stadt Würzburg und 19 kooperierenden KMU ein vielseitiges, praxistaugliches und nutzerfreundliches KI-gestütztes Entscheidungstool für die nachhaltige Bauleit- und Stadtplanung. Das fortschrittliche Stadtklimamodell PALM-4U wird als neuartiges Zusatzmodul im vorhandenen digitalen Zwilling (DZ) der Stadt Würzburg integriert.
+Das Projekt **SMART-TWIN** wird durch den Europäischen Fonds für regionale Entwicklung (EFRE) im Rahmen der Maßnahmenart 3.2 "Förderung des Technologietransfers von Hochschulen in Unternehmen" gefördert. Die Julius-Maximilians-Universität Würzburg entwickelt gemeinsam mit der Stadt Würzburg und 19 kooperierenden KMU ein vielseitiges, praxistaugliches und nutzerfreundliches KI-gestütztes Entscheidungstool für die nachhaltige Bauleit- und Stadtplanung. Das fortschrittliche Stadtklimamodell PALM-4U wird als neuartiges Zusatzmodul im vorhandenen Urbanen Digitalen Zwilling (UDZ) der Stadt Würzburg integriert.
 
 Dieser Ansatz ist besonders vielversprechend, da die Stadt Würzburg bereits über einen datenintensiven digitalen Zwilling verfügt, der praktisch alle statischen Inputdaten für das datenbedürftige Stadtklimamodell PALM-4U bereitstellen kann. Zudem existiert in Würzburg ein beispielloses Messnetz von städtischen Klimastationen, die seit 2018 einen lückenlosen Datensatz zur Validierung und Adjustierung des Stadtklimamodells bereitstellen. Moderne KI- und Big-Data-Technologien werden mit zeitgemäßen Ansätzen der Fernerkundung (Drohnen-Befliegungen, Satellitendaten) und der Prozessmodellierung kombiniert.
 
-![Luftaufnahmen Würzburg](images/start/fit_2560.jpg)*Luftaufnahme des Residenzgebäudes*
+![Luftaufnahmen Würzburg](images/start/fit_2560.jpg)*Luftaufnahme eines Universitätsgebäudes*
+
+> Wie wirkt sich eine Dachbegrünung auf die nächtliche Abkühlung im Stadtquartier aus?
 
 Ein völlig neuartiger Ansatz ist die Integration mehrerer kombinierbarer Ebenen von Szenarien: Wetterlagen, die für Wohlbefinden und Gesundheit der städtischen Bevölkerung relevant sind (Hitzetage, Tropennächte, Starkniederschläge), zukünftige Entwicklungen durch Treibhausemissionen, sowie Veränderungen in der städtischen Baustruktur und Landnutzung. KMU können über ein nutzerfreundliches Interface selbstständig Berechnungen starten – beispielsweise welchen stadtklimatischen Einfluss die Transformation eines vollversiegelten Parkplatzes in einen Stadtpark unter Annahme eines sommerlichen Hitzeereignisses in der Mitte des 21. Jahrhunderts hätte.
 
 Würzburg bietet sich als Fallbeispiel an: Der unterfränkische Raum gilt als Hotspot des Klimawandels in Mitteleuropa, und das Stadtgebiet ist aufgrund seiner Lage im Talkessel, der historisch hohen Bebauungsdichte und vielfach verbauter Flurwindschneisen durch eine besonders ausgeprägte städtische Wärmeinsel gekennzeichnet. Das entwickelte Tool wird so umgesetzt, dass es nach der Förderphase (2025-2028) leicht auf andere bayerische Städte übertragen werden kann, die bereits über einen digitalen Zwilling oder eine umfassende Datenbank zur Siedlungsstruktur verfügen.
 
-> Wie wirkt sich eine Dachbegrünung auf die nächtliche Abkühlung im Stadtquartier aus?
+
 
 
 ## Schematische Darstellung des Projekts
