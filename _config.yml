@@ -1,2 +1,2 @@
-exclude:
-  - big_data_at_geo/
+url: "https://smarttwin-wue.eu"
+baseurl: ""          # IMPORTANT (not "/smarttwin-site")
