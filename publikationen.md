@@ -16,7 +16,7 @@ Im Zuge des Projektes SMART-TWIN entstanden bisher {{number_publications}} wisse
 
 
 <!-- ---
-## BigData@Geo  -->
+## BigData@Geo  
 
 <ul>
 {% assign publications = site.data.publications.publications | sort: 'year' | reverse %}
@@ -29,3 +29,5 @@ Im Zuge des Projektes SMART-TWIN entstanden bisher {{number_publications}} wisse
     </li>
 {% endfor %}
 </ul>
+
+-->
