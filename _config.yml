@@ -1,2 +1,9 @@
+exclude:
+  - build_website.sh
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .github/
+
 url: "https://smarttwin-wue.eu"
 baseurl: ""          # IMPORTANT (not "/smarttwin-site")
