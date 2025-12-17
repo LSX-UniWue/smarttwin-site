@@ -7,3 +7,4 @@ exclude:
 
 url: "https://smarttwin-wue.eu"
 baseurl: ""          # IMPORTANT (not "/smarttwin-site")
+site_title: "SMART-TWIN"
