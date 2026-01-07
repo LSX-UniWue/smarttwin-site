@@ -49,4 +49,4 @@ Dadurch werden Planungsprozesse präziser, schneller und kosteneffizienter, was 
 - Bereitstellung von Visualisierungs- und Interpretationshilfen für Planungsentscheidungen
 
 ![Schematische Darstellung der Vorgehensweise beim sogenannten Deep Learning am Beispiel des Projekts](/images/ziele/deep_learning_downscaling.png)
-*Schematische Darstellung: Eine auf grober Auflösung berechnete Simulation mit PALM-4U wird mit Methoden der Künstlicher Intelligenz runterskaliert auf eine sehr hohe Auflösung. Insgesamt wird dadurch die Berechnung der Hochaufgelösten Klimaprojektion beschleunigt.*
+*Schematische Darstellung: Eine auf grober Auflösung berechnete Simulation mit PALM-4U wird mit Methoden der Künstlichen Intelligenz auf eine sehr hohe Auflösung herunterskaliert. Insgesamt wird dadurch die Berechnung der hochaufgelösten Klimaprojektion beschleunigt.*
