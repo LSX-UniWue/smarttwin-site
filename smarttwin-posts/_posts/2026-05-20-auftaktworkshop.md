@@ -2,9 +2,10 @@
 title: "Auftaktworkshop SMART TWIN: Erfolgreicher Start in die gemeinsame Projektarbeit"
 layout: news
 date: 2026-05-20
-images:                                                                                                                                                                     
+images:
     - /images/posts/2026-05-20-auftaktworkshop/gruppenfoto-auftaktworkshop.jpg
-captions:                                                                                                                                                                               - "Gemeinsames Gruppenfoto beim Auftaktworkshop am CAIDAS"     
+captions:
+    - "Gemeinsames Gruppenfoto beim Auftaktworkshop am CAIDAS"     
 ---
 Am 20. Mai 2026 fand am **Center for Artificial Intelligence and Data Science (CAIDAS)** der Universität Würzburg der Auftaktworkshop des Projekts **SMART TWIN** statt. Vertreterinnen und Vertreter zahlreicher **kleiner und mittlerer Unternehmen (KMU)**, der **Stadt Würzburg** sowie der beteiligten universitären Arbeitsgruppen kamen zusammen, um das Projekt kennenzulernen und erste fachliche Impulse auszutauschen.
 
