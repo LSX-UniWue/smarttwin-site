@@ -11,11 +11,6 @@
       url: "https://www.haines-leger.de/"
       logo: "/images/logos_kmu/haines_leger.png"
       
-    - name: Grellmann Kriebel Teichmann & Partner Architekten BDA
-      location: Würzburg
-      address: Kaiserstraße 33, 97070 Würzburg
-      url: "https://www.gkt-architekten.de/"
-      
     - name: Schlicht Lamprecht Kern Architekten PartGmbB
       location: Schweinfurt
       address: Maibacher Straße 51, 97424 Schweinfurt
@@ -26,7 +21,7 @@
       location: Schweinfurt
       address: Kornmarkt 17, 97421 Schweinfurt
       url: "https://www.architekt-perleth.de/"
-      logo: "/images/logos_kmu/perleth.png"
+      logo: "/images/logos_kmu/perleth.jpg"
       
     - name: Wegner Stadtplanung
       location: Veitshöchheim
